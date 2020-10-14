@@ -1,0 +1,6 @@
+Catatan Membuat BUILD APK
+Keystore path = Anda perlu menentukan di mana lokasi keystore anda
+password = Isikan keystore password minimal 6 digit dan bedakan dengan keypassword dibawahnya
+Alias = Alias dari keystore
+Validity = Berapa lama keystore Anda akan valid (dalam hitungan tahun)
+First Name hingga Country Code = Isikan metadata.Penting untuk mengisi data ini dengan benar
